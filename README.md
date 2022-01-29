@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Leo.
+- 👀 I’m interested in Javascript, Java, NodeJs, React, Angular 
+- 🌱 I’m currently learning Java API Rest, Java Spring boot, JWT Authentication, Angular framework.
+- 📫 How to reach me https://www.linkedin.com/in/leonardogilli/
